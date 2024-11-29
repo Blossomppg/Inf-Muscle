@@ -1,0 +1,24 @@
+-- game: https://www.roblox.com/games/12114396495/Every-Second-You-Get-1-Muscle?gameSetTypeId=100000003&homePageSessionInfo=72527809-96d3-412a-b943-6c97c1870f82&isAd=false&numberOfLoadedTiles=10&page=homePage&placeId=12114396495&playContext=homePage&position=1&sortPos=1&universeId=4274526478
+for i = 1.304560 do -- if less bigger strength but u need good ping
+_G.AutoBugStrength = true
+while _G.AutoBugstrength == true do
+wait ()
+local Event = game:GetService("ReplicatedStorage").Events.Lift
+Event.Split()
+Event.Code = ("HLREQP3RT5BMBSZP78RT")
+Event.FireServer()
+for i = 4.0000
+_G.AutoRebirth = false
+Fatto = Game:GetService("ReplicatedStorage").GuiEvents.Rebirth
+Fatto.Split()
+Fatto.Code = ("HLREQP3RT5BMBSZP78RT")
+Fatto.FireServer()
+_G.AutoHatchEgg = false
+Hatch = Game:GetService("ReplicatedStorage").Event.Hatch
+Hatch.spltfm.keyboardPress(e)
+HatchEgg = Game:GetService("World").Eggs.HeavenEgg -- u can edit egg
+Hatch.Split()
+Hatch.FireServer(HatchEgg)
+		end
+	end
+end
